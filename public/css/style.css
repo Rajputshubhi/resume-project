@@ -1,0 +1,31 @@
+.google-font{
+    font-family: 'Satisfy', cursive;
+}
+html,body{
+    height:100%;
+
+}
+.container-fluid{
+    min-height: 100%;
+}
+a:hover{
+  background-color:yellowgreen;
+}
+a.active{
+    background-color: black;
+}
+.para-style{
+   font-size: 10px;
+   margin-left: 30px;
+   word-spacing: 1px;
+   letter-spacing: 1px;
+}
+.para-service{
+    font-size: 12px;
+    word-spacing: 2px;
+    letter-spacing: 1px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+/* .border-image{
+    margin-left: 13px;
+} */
